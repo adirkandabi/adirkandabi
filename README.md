@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adir</h1>
 <h3 align="center">A passionate fullstack & software developer from Israel</h3>
 
-- 🔭 I’m currently working in Slash Apps Development as a FullStack Developer
+- 🔭 I’m currently working at Slash Apps Development as a FullStack Developer
 
 - 📫 How to reach me **kandabiadir@gmail.com**
 
