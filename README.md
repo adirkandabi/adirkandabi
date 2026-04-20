@@ -6,10 +6,10 @@
 - 📫 How to reach me **kandabiadir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left" display="flex">
 <a href="https://linkedin.com/in/adirkandabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adirkandabi" height="30" width="40" /></a>
 <a href="https://fb.com/adirkandabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adir kandabi" height="30" width="40" /></a>
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
